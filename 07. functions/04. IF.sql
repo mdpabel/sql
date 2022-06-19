@@ -1,0 +1,2 @@
+SELECT 
+IF(10 MOD 2 = 0, 'EVEN' , 'ODD')

@@ -1,0 +1,13 @@
+SELECT
+12 MOD 4,
+11 % 3,
+ABS(-30),
+CEIL(3.2),
+PI(),
+FLOOR(4.9),
+ROUND(3.6),
+SQRT(25),
+RAND(),
+POWER(5, 2),
+POW(5, 2),
+10 DIV 2
